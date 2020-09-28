@@ -5,7 +5,9 @@ output:
     keep_md: yes
 ---
 
-
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 # Repositorio asigmatura Análisis de Datos 20-21
 
