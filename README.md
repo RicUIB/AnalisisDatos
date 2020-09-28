@@ -7,7 +7,7 @@ output:
 
 
 
-# Repositorio asigmatura Análisis de Datos 20-21
+# Repositorio asignatura Análisis de Datos 20-21
 
 Repositorio Análisis de Datos
 
