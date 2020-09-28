@@ -10,3 +10,11 @@ output:
 # Repositorio asigmatura Análisis de Datos 20-21
 
 Repositorio Análisis de Datos
+
+* Estadística Multivariante.
+* Series Temporales.
+* Introdución de la ciencia de datos: "data wrangling".
+
+
+
+
