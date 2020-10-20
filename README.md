@@ -14,7 +14,7 @@ Repositorio Análisis de Datos
 * Estadística Multivariante.
 * Series Temporales.
 * Introdución de la ciencia de datos: "data wrangling".
-
+* Tidyverse.
 
 
 
